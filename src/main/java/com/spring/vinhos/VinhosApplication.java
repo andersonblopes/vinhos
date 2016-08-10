@@ -1,12 +1,12 @@
-package com.algaworks.projeto;
+package com.spring.vinhos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootTemplateProjetoApplication {
+public class VinhosApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootTemplateProjetoApplication.class, args);
+		SpringApplication.run(VinhosApplication.class, args);
 	}
 }
